@@ -1,0 +1,9 @@
+{
+
+	"count_operator" : "1",
+	"lenght_queue" : "3",
+	"time_in_queue" : "10",
+	"operator_response_time_sec" : "10",
+	"if_3" : "4"
+}
+
